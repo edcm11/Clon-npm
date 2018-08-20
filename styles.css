@@ -1,0 +1,98 @@
+nav {
+  background-color: #C12127;
+  color: rgba(255,255,255,0.8);
+  padding-top: 15px;
+  height: 20px;
+  vertical-align: baseline;
+  font-family: Arial, Helvetica, sans-serif
+}
+
+nav a {
+  color: rgba(255,255,255,0.8);
+  text-decoration: none;
+  vertical-align: baseline;
+  font-family: Arial, Helvetica, sans-serif
+  
+}
+
+.top-links {
+  display: inline-block;
+  float: right;
+  padding: 0;
+  margin: -17px 20px 0 0;
+}
+
+.top-links li {
+  display: inline-block;
+  margin: 0 10px;
+}
+.div2{
+ margin: 0 0 0 350px ; text-align: left; width: 550px ; font-size: 18px;
+ font-family: Arial, Helvetica, sans-serif;
+}
+.header{
+  background-image: url("/home/soubuntu/code/module exercise/lab-html-module-exercise-master/starter-code/images/city-scape.svg");
+  background-size: coverver; position: inherit; color: white; 
+ background-color: rgb(32,101,136); padding: 20px; height:400px;
+}
+.links{
+  text-decoration: none; color: white
+}
+.link-btn {
+  background-color: rgb(240,146,51); color: white; text-decoration: none;
+  border-radius: 8px
+}
+.link-btn2{
+  background-color: rgb(203, 56, 55); color: white; text-decoration: none;
+  border-radius: 8px
+}
+.link-btn3{
+  background-color: rgb(49, 68, 88); color: white; text-decoration: none;
+  border-radius: 8px
+}
+.imgl{
+  width: 100px; padding: 10px;
+}
+.bear-logo{
+  width: 50px; float: right; margin: 0%
+}
+.search-bar{
+  width:70%; height: 20px; padding:5px; border:none; float: right;
+  margin: auto 20px; text-align: left; background-color: rgb(31,82,111); 
+}
+.div3{
+  float: right; margin-right: -400px; margin-top: -300px; display: inline-block;
+  vertical-align: middle; width: 45%; font-family: Arial, Helvetica, sans-serif}
+.img-colla{
+  padding: 3 rem; width: 60%; height: 200px; padding-left: 2rem;
+  padding-right: 2rem;
+}
+.collaboration{
+  background-color: rgb(39, 53, 71); color: white; height: 80vh;
+}
+.section3{
+  background-image: url(images/forklift.svg); background-size: cover;
+  position: inherit; background-color: rgb(32,101,136); padding: 20px;
+  height:400px; text-align: left; font-family: Arial, Helvetica, sans-serif; color: white;
+  vertical-align: middle
+}
+.section4{
+  text-align: center; font-family: Arial, Helvetica, sans-serif; background-color: white
+}
+.head-section4{
+  color: rgb(83, 88, 98);
+}
+.text-section4{
+  color: rgb(135, 145, 156)
+}
+.links-section4{
+  color: rgb(208, 74, 73)
+}
+.find{
+  text-align: center; float: left; padding-top: 2rem; padding-bottom: 2rem;
+  color: rgb(135, 145, 156); width: 33.33%; height: 33.33%;
+}
+.discover{
+  text-align: center; float: left; padding-top: 2rem; padding-bottom: 2rem;
+  color: rgb(135, 145, 156); width: 33.33%; height: 33.33%;
+}
